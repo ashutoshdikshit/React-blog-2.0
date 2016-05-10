@@ -8,7 +8,7 @@ export default React.createClass({
           <nav className="navbar navbar-default">
             <div className="container-fluid">
               <div className="navbar-header">
-                <a className="navbar-brand" href="#">React- Blog App</a>
+                <Link to="/Home" className="navbar-brand">React- Blog App</Link>
               </div>
               <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav">

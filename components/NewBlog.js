@@ -13,6 +13,7 @@ export default React.createClass({
               <label for="formGroupExampleInput2">Blog Text</label>
               <textarea className="form-control" id="exampleTextarea" rows="10"></textarea>
             </fieldset>
+            <button type="button" className="btn btn-primary">Primary</button>
           </form>
         </div>
       );
