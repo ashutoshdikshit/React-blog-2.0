@@ -1,0 +1,28 @@
+.toDoForm label{
+  margin: 10px;
+}
+
+.toDoForm button{
+  margin: 10px;
+}
+
+.blogCard {
+  position: relative;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: .25rem;
+  width: 30%;
+  float: left;
+  margin:5px;
+  padding: 10px;
+}
+
+.cardContainer {
+  overflow: hidden;
+  width: 100%;
+}
+
+.blogTitle {
+  font-weight: bold;
+}

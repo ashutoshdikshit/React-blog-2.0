@@ -12,9 +12,10 @@ export default React.createClass({
               </div>
               <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav">
-                  <li><Link to="/ViewBlog">View Blogs</Link></li>
+                  <li><Link to="/ViewBlog/:Id">View Blogs</Link></li>
                   <li><Link to="/NewBlog">New Blogs</Link></li>
                   <li><Link to="/ReadBlog">Read Blogs</Link></li>
+                  <li><Link to="/BlogToDo">Blog To Do</Link></li>
                 </ul>
                 <ul className="nav navbar-nav navbar-right">
                   <li><a href="#">Logout</a></li>
@@ -22,7 +23,8 @@ export default React.createClass({
               </div>
             </div>
           </nav>
-          {this.props.children}
+          {React.cloneElement(this.props.children, this.props)}
+          
         </div>
       );
   }
