@@ -3,31 +3,36 @@ const blogs = [
     "id": 1180,
     "title": "lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu,",
     "timestamp": "2016-05-27 11:42:05",
-    "text": "enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas"
+    "text": "enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas",
+    "likes": 20
   },
   {
     "id": 1918,
     "title": "mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed",
     "timestamp": "2016-04-26 04:43:56",
-    "text": "odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec"
+    "text": "odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec",
+    "likes": 20
   },
   {
     "id": 1307,
     "title": "mus. Donec dignissim magna a tortor. Nunc commodo auctor velit.",
     "timestamp": "2015-12-14 10:40:57",
-    "text": "Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien"
+    "text": "Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien",
+    "likes": 20
   },
   {
     "id": 59,
     "title": "et malesuada fames ac turpis egestas. Fusce aliquet magna a",
     "timestamp": "2017-01-02 10:59:03",
-    "text": "nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut semper pretium neque. Morbi quis urna. Nunc quis arcu"
+    "text": "nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut semper pretium neque. Morbi quis urna. Nunc quis arcu",
+    "likes": 20
   },
   {
     "id": 36,
     "title": "aliquam eros turpis non enim. Mauris quis turpis vitae purus",
     "timestamp": "2015-06-19 05:54:04",
-    "text": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus"
+    "text": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus",
+    "likes": 20
   },
   {
     "id": 809,
